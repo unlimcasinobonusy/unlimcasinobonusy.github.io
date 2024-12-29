@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Host: unlimcasinobonusy.github.io
+Sitemap: https://unlimcasinobonusy.github.io/sitemap.xml
